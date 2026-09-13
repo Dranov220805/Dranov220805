@@ -2,7 +2,7 @@
   <img src="linkedin-banner.png" width="100%" alt="Header Banner" />
   <h1>Hi there! I'm Long (you can call me Long Duong or Dranov)</h1>
   <p>Software Engineering Student @ Ton Duc Thang University</p>
-  <a href="https://www.linkedin.com/in/quốc-châu-jo-b71879269" target="_blank">
+  <a href="www.linkedin.com/in/duong-thanh-long-forworks" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
 </div>
