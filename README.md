@@ -54,5 +54,5 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=qchau0202&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="280" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Dranov220805&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="280" alt="GitHub Streak Stats" />
 </div>
